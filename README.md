@@ -1,3 +1,3 @@
 # thelaurenlee.github.io
 
-my first website! ~get excited~
+my first website! 
